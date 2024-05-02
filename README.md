@@ -1,1 +1,2 @@
-# Frontend and Backend Connection
+# Frontend and Backend Connection 
+cors
